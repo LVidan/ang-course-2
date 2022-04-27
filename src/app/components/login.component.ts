@@ -4,8 +4,8 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-login',
   template: `
     <fieldset>
-      <legend>test</legend>
-      alo
+      <legend>Login Component</legend>
+      <app-common-buttons></app-common-buttons>
     </fieldset>
   `,
   styles: [
